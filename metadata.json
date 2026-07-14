@@ -1,0 +1,6 @@
+{
+  "name": "ESHA Control",
+  "description": "Adaptive command center and layered biometric control suite companion for the ESHA AI desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
